@@ -119,8 +119,8 @@ TBC - [TBC](TBC)
 
 #### Challenges
 
-    1. Unfamiliarity with the data and problem space.
-    1. The CMS CVD Data from Kaggle does not align well with the goal of targetubg individuals.
+1. Unfamiliarity with the data and problem space.
+1. The CMS CVD Data from Kaggle does not align well with the goal of targetubg individuals.
 
 ## Presentation
 
